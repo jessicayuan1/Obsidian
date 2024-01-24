@@ -1,0 +1,19 @@
+{
+  "editor:cycle-list-checklist": [],
+  "templater-obsidian:Templates/Weekly Note Template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ]
+}

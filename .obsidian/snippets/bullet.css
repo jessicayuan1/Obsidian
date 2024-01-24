@@ -1,0 +1,6 @@
+.markdown-preview-view ul li::marker {
+    content: '– ';
+}
+.markdown-source-view.mod-cm6 .list-bullet:after {
+    content: "–";
+}
