@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Week of 2024-01-20.md",
+                "file": "Weekly Notes/Week of 2024-01-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-25 Duplicates in a Linked List.md",
+                "file": "Winter 2024/ECE 250 Algorithms and Data Structures/2024-01-23 Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-25 Duplicates in a Linked List.md",
+                "file": "Winter 2024/ECE 250 Algorithms and Data Structures/2024-01-23 Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-25 Duplicates in a Linked List.md",
+                "file": "Winter 2024/ECE 250 Algorithms and Data Structures/2024-01-23 Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-25 Duplicates in a Linked List.md"
+                "file": "Winter 2024/ECE 250 Algorithms and Data Structures/2024-01-23 Linked List.md"
               }
             }
           }
@@ -197,14 +197,15 @@
   },
   "active": "715dfc51421fff9e",
   "lastOpenFiles": [
-    "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 Data Structures and Algorithms.md",
+    "Weekly Notes/Week of 2024-01-20.md",
+    "Weekly Notes/Week of 2024-01-11 to 01-17.md",
     "01-25 Duplicates in a Linked List.md",
+    "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 Data Structures and Algorithms.md",
     "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
-    "Daily Notes/Week of 2024-01-20.md",
     "Screen Shot 2024-01-25 at 12.19.23 PM.png",
     "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Recursive approach.md",
-    "Daily Notes/Week of 2024-01-14.md",
+    "Weekly Notes/Week of 2024-01-14.md",
     "Winter 2024/ECE 222 Digital Computers/ECE 222 Digital Computers.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/2024-01-23 Linked List.md",
     "Winter 2024/ECE 204 Numerical Methods/ECE 204 Numerical Methods.md",
@@ -214,7 +215,6 @@
     "Winter 2024/ECE 205 Advanced Calculus/ECE 205 Advanced Calculus.md",
     "Templates/Week of 2024-01-11.md",
     "Winter 2024/ECE 205 Advanced Calculus/Brannan-ECE205outline.pdf",
-    "Daily Notes/To do 2024-01-11 to 01-17.md",
     "Winter 2024/ECE 222 Digital Computers/2024-01-12 Program Counter.md",
     "Winter 2024/ECE 222 Digital Computers/Untitled.md",
     "Templates/Weekly Note Template.md",
