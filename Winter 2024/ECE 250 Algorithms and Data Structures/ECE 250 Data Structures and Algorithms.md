@@ -2,7 +2,7 @@
 [[2024-01-23 Linked List]]
 [[01-25 Duplicates in a Linked List]]
 
-
+[[ 01-31 Tree Traversals]]
 
 
 ![[Pasted image 20240111182056.png]]
