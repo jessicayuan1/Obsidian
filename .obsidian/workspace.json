@@ -100,18 +100,6 @@
             }
           },
           {
-            "id": "d2390400a8e3d92a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What's in the fridge?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2cc2584796b9789f",
             "type": "leaf",
             "state": {
@@ -122,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -188,7 +176,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winter 2024/ECE 250 Algorithms and Data Structures/02-01 Binary Search Tree Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +192,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winter 2024/ECE 250 Algorithms and Data Structures/02-01 Binary Search Tree Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Winter 2024/ECE 250 Algorithms and Data Structures/02-01 Binary Search Tree Applications.md"
+                "file": "What's in the fridge?.md"
               }
             }
           }
@@ -251,13 +237,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7261b6762d6c9663",
+  "active": "880da2344b7206d6",
   "lastOpenFiles": [
+    "Winter 2024/What's in the fridge?.md",
+    "What's in the fridge?.textClipping",
+    "Interview Questions.md",
+    "Winter 2024/ECE 250 Algorithms and Data Structures/02-01 Binary Search Tree Applications.md",
     "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
     "Weekly Notes/Week of 2024-01-28.md",
-    "Interview Questions.md",
     "What's in the fridge?.md",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/02-01 Binary Search Tree Applications.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/01-31 Tree Traversals.md",
     "Weekly Notes/Week of 2024-01-20.md",
     "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
@@ -297,7 +285,6 @@
     "Untitled 2.canvas",
     "Untitled 1.png",
     "Untitled 4.canvas",
-    "Users/jessica/Documents",
-    "Users/jessica"
+    "Users/jessica/Documents"
   ]
 }

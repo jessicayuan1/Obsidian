@@ -28,6 +28,12 @@ MongoDB is a database that focuses more on the storage and retrieval of data rat
 Mongo stores in JSON
 
 
+P
+
+comp eng at waterloo 
+
+
+
 
 
 
