@@ -9,6 +9,9 @@ What's in the fridge?
 Freezer 
 - cauliflour rice
 - frozen rice
+- Haddock bites
+
+
 - Lap cheung
 - Cabbage
 - kimchii

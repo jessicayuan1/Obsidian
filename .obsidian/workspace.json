@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 Data Structures and Algorithms.md",
+                "file": "Winter 2024/ECE 250 Algorithms and Data Structures/2024-01-23 Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter 2024/Whats in the fridge.md",
+                "file": "Winter 2024/Fridge.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "'",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winter 2024/Whats in the fridge.md",
+                "file": "Weekly Notes/Week of 2024-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winter 2024/Whats in the fridge.md",
+                "file": "Weekly Notes/Week of 2024-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Winter 2024/Whats in the fridge.md"
+                "file": "Weekly Notes/Week of 2024-01-28.md"
               }
             }
           }
@@ -252,12 +252,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "982dc446506ba183",
+  "active": "90008a80df93ad5d",
   "lastOpenFiles": [
-    "Winter 2024/ECE 205 Advanced Calculus/Brannan-ECE205outline.pdf",
+    "Winter 2024/ECE 250 Algorithms and Data Structures/2024-01-23 Linked List.md",
+    "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 Data Structures and Algorithms.md",
     "Weekly Notes/Week of 2024-01-28.md",
+    "Winter 2024/Fridge.md",
+    "Winter 2024/ECE 205 Advanced Calculus/Brannan-ECE205outline.pdf",
     "What's in the fridge?.md",
-    "Winter 2024/Whats in the fridge.md",
     "What's in the fridge?.textClipping",
     "Interview Questions.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/02-01 Binary Search Tree Applications.md",
@@ -265,7 +267,6 @@
     "Winter 2024/ECE 250 Algorithms and Data Structures/01-31 Tree Traversals.md",
     "Weekly Notes/Week of 2024-01-20.md",
     "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 Data Structures and Algorithms.md",
     "Templates/Weekly Note Template.md",
     "Templates/Week of 2024-01-28.md",
     "01-25 Duplicates in a Linked List.md",
@@ -276,7 +277,6 @@
     "Winter 2024/ECE 250 Algorithms and Data Structures/Recursive approach.md",
     "Daily Notes/Week of 2024-01-14.md",
     "Winter 2024/ECE 222 Digital Computers/ECE 222 Digital Computers.md",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/2024-01-23 Linked List.md",
     "Winter 2024/ECE 204 Numerical Methods/ECE 204 Numerical Methods.md",
     "Winter 2024/ECE 109 Materials Chemistry/2024-01-16 Materials.md",
     "Winter 2024/ECE 109 Materials Chemistry/ECE 109 Materials Chemistry for Engineers.md",
