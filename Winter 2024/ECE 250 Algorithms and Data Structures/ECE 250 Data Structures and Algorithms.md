@@ -3,7 +3,7 @@
 [[01-25 Duplicates in a Linked List]]
 
 [[ 01-31 Tree Traversals]]
-
+[[Red Black Trees]]
 
 ![[Pasted image 20240111182056.png]]
 
