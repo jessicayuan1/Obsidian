@@ -1,7 +1,7 @@
 
 What got you into dev/wearable tech?
 
-
+- do you think there's an opportunity to be hands on with the tech in this position as a fullstack developer? its been a goal of mine to be able to branch out 
  software development life cycle.
 
 How did you find waterloo co-op prepared you for the tech industry?
