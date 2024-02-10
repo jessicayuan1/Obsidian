@@ -30,18 +30,6 @@
             }
           },
           {
-            "id": "936536a3d304f6e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red Black Trees.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8c4550e9b78d9d07",
             "type": "leaf",
             "state": {
@@ -81,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter 2024/Fridge.md",
+                "file": "Home/Fridge.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -164,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Black Trees.md",
+                "file": "Weekly Notes/Week of 2024-02-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Black Trees.md",
+                "file": "Weekly Notes/Week of 2024-02-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Black Trees.md"
+                "file": "Weekly Notes/Week of 2024-02-07.md"
               }
             }
           }
@@ -227,18 +215,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "936536a3d304f6e5",
+  "active": "90008a80df93ad5d",
   "lastOpenFiles": [
+    "Home/Darius.md",
+    "Weekly Notes/Week of 2024-02-07.md",
+    "Attachments/Screen Shot 2024-02-08 at 12.19.16 AM.png",
+    "Attachments/Screen Shot 2024-01-25 at 12.19.23 PM.png",
+    "Attachments/Pasted image 20240111182056.png",
+    "Attachments/Promissory Note.png",
+    "Attachments",
+    "Winter 2024/ECE 250 Algorithms and Data Structures/Red Black Trees.md",
+    "Home",
+    "Home/Fridge.md",
+    "Red Black Trees.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/2024-01-23 Linked List.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/02-01 Binary Search Tree Applications.md",
     "Interview Questions.md",
-    "Weekly Notes/Week of 2024-02-07.md",
     "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 Data Structures and Algorithms.md",
-    "Red Black Trees.md",
     "Screen Shot 2024-02-08 at 12.19.16 AM.png",
     "Weekly Notes/Week of 2024-01-28.md",
-    "Winter 2024/Fridge.md",
     "Winter 2024/ECE 205 Advanced Calculus/Brannan-ECE205outline.pdf",
     "What's in the fridge?.md",
     "What's in the fridge?.textClipping",
@@ -258,8 +254,6 @@
     "Winter 2024/ECE 204 Numerical Methods/ECE 204 Numerical Methods.md",
     "Winter 2024/ECE 109 Materials Chemistry/2024-01-16 Materials.md",
     "Winter 2024/ECE 109 Materials Chemistry/ECE 109 Materials Chemistry for Engineers.md",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/2024-01-18 Abstract Data Types.md",
-    "Winter 2024/ECE 205 Advanced Calculus/ECE 205 Advanced Calculus.md",
     "Pasted image 20240111182056.png",
     "Winter 2024/ECE 250 Algorithms and Data Structures/ECE_250_-_Introduction.to.AlgorithmsONE_ON_RIGHT.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 - DataStructures_and_Algorithm Analysis.pdf",
@@ -269,12 +263,10 @@
     "Untitled 1.canvas",
     "Important Documents/Promissory Note.png",
     "Screen Shot 2024-01-09 at 1.52.08 PM.png",
-    "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf.zip",
     "Important Documents/Release Notes.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.png",
-    "Untitled 4.canvas",
-    "Users/jessica/Documents"
+    "Untitled 4.canvas"
   ]
 }
