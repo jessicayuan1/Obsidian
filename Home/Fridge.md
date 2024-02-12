@@ -8,7 +8,7 @@ What's in the fridge?
 Freezer 
 - cauliflour rice
 - frozen rice
-- Haddock bites
+- Haddock bites + tartar sauce
 
 - Lap cheung
 - Cabbage

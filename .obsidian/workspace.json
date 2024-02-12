@@ -64,18 +64,6 @@
             }
           },
           {
-            "id": "5e399cd94b1ec850",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home/Fridge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2cc2584796b9789f",
             "type": "leaf",
             "state": {
@@ -219,6 +207,7 @@
   "lastOpenFiles": [
     "Home/Darius.md",
     "Weekly Notes/Week of 2024-02-07.md",
+    "Home/Fridge.md",
     "Attachments/Screen Shot 2024-02-08 at 12.19.16 AM.png",
     "Attachments/Screen Shot 2024-01-25 at 12.19.23 PM.png",
     "Attachments/Pasted image 20240111182056.png",
@@ -226,7 +215,6 @@
     "Attachments",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Red Black Trees.md",
     "Home",
-    "Home/Fridge.md",
     "Red Black Trees.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/2024-01-23 Linked List.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/02-01 Binary Search Tree Applications.md",
