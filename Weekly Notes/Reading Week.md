@@ -21,7 +21,10 @@ To Do:
 	- [x] Problem page (Today)
 	- [ ] 
 
-
+02-21 Wednesday
+finish reviewing 204
+finish reviewing 250
+finish reviewing 222 stack pointers and interrupt handlers
 
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
