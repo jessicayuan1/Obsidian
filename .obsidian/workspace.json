@@ -52,6 +52,30 @@
             }
           },
           {
+            "id": "5b6566885a79aa79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Winter 2024/ECE 250 Algorithms and Data Structures/Red Black Trees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4bc7eeed9d8b41c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Winter 2024/ECE 250 Algorithms and Data Structures/Trees -- Tutorial 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7b96f3fb5d522a95",
             "type": "leaf",
             "state": {
@@ -193,11 +217,14 @@
   },
   "active": "cad9251aa65963bf",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240222125405.png",
+    "Winter 2024/ECE 250 Algorithms and Data Structures/Trees -- Tutorial 5.md",
+    "Winter 2024/ECE 250 Algorithms and Data Structures/Red Black Trees.md",
+    "Weekly Notes/Reading Week.md",
     "Winter 2024/Mark Breakdown.md",
     "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
     "Winter 2024/ECE 240 Electronic Circuits/ECE 240 Electronic Circuits.md",
     "Winter 2024/ECE 204 Numerical Methods/ECE 204 Numerical Methods.md",
-    "Weekly Notes/Reading Week.md",
     "Winter 2024/ECE 222 Digital Computers/midtermPractice.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Midterm Exam Overview.md",
     "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
@@ -214,14 +241,12 @@
     "Weekly Notes/Week of 2024-02-13.md",
     "Weekly Notes/Week of 2024-02-07.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/2024-01-23 Linked List.md",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/Trees -- Tutorial 5.md",
     "Templates/Week of 2024-01-28.md",
     "Winter 2024/ECE 222 Digital Computers/ECE 222 Digital Computers.md",
     "Attachments/Screen Shot 2024-02-08 at 12.19.16 AM.png",
     "Attachments/Screen Shot 2024-01-25 at 12.19.23 PM.png",
     "Attachments/Pasted image 20240111182056.png",
     "Attachments/Promissory Note.png",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/Red Black Trees.md",
     "Red Black Trees.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/02-01 Binary Search Tree Applications.md",
     "Interview Questions.md",
