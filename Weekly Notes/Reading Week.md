@@ -6,6 +6,7 @@ To Do:
 	- [ ] AVL tree insertion
 	- [x] Binary tree insertion
 	- [ ] [Problem set](https://learn.uwaterloo.ca/d2l/le/content/983544/Home) 1 through 5
+		- [ ] 50% of the way there
 	- [ ] 
 	
 - [ ] 240 Midterm exam review page
@@ -17,10 +18,11 @@ To Do:
 	- [ ] Schmidt Trigger
 	- [ ] 
 	
-- [ ] 204 Assignment questions + understanding 
+- [ ] 204 Assignment questions + understanding : You're  30%
 	- [ ] [Course home ](https://ece.uwaterloo.ca/~dwharder/nm/Lecture_materials/)
 		- [ ] Review interpolating polynomials (announcement)
 		- [ ] Learn best squares least fitting polynomials???
+
 	- [ ] Week 2
 	- [ ] Week 3 (Interpolation, Bracketing)
 	- [ ] Week 4
@@ -32,21 +34,28 @@ To Do:
 - [ ] 222 
 	- [x] Problem page (Today)
 	- [ ] Question 2 a) b)
-	- [ ] Practice exam 2
+	- [ ] Practice exam 2 Tomorrow Friday Feb 23
 
 02-21 Wednesday
 	finish reviewing 204 ✅
 	finish reviewing 250 ✅
 	finish reviewing 222 stack pointers and interrupt handlers✅
 
-Tomorrow 02-21
-- Goal -- Reinforce above learning -- implement heap, binary search tree
-- Do 1 secant method question and derivative approximation question
+02-21 Thursday
+- Goal -- Reinforce above learning -- **implement heap, binary search tree**
+- Do **1 secant method question and derivative approximation question**
 - Do 1 222 practice exam✅
 	- Interrupt handlers, polling cycle calculation ✅
 	- 
 	- 
-- Do 240 video review
+- **Do 240 SCHMITT TRIGGER PROBLEMS**
+	- Updated 240 Midterm Review pdf
+	- RLC Circuits
+	  1 RLC 
+	  Op Amp formula question
+	  Schmitt trigger
+	  thevenin equiv
+	  Difference amplidier
 
 Questions:
 1. How do I use derivatives and integration approximation techniques?
@@ -62,11 +71,14 @@ Questions:
 
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|  | 205 review | 250 (computer around) or 222, <br><br>finish reviewing 204<br> | bilal -- 240 or 204 or 205 | 250 222 | 205 questions |  |
-| finish reviewing 204<br><br>finish reviewing 250<br><br>finish reviewing 222 stack pointers and interrupt handlers |  |  | Going back waterloo |  |  |  |
+|  | 205 review | 250 (computer around) or 222, <br><br>finish reviewing 204<br> | bilal -- 240 or 204 or 205 | 240 complete<br> | 205 questions |  |
+| finish reviewing 204<br><br>finish reviewing 250<br><br>finish reviewing 222 stack pointers and interrupt handlers |  |  | Going back waterloo<br>- water plant<br>study at someplace  |  |  |  |
+|  |  |  |  |  |  |  |
 Reflection: omg things are starting to make sense, I get a feelign of 222 way better. 250 should be alright as well, you did the questions pretty nicely for multiple hcoice. Just work on implementing the actual code and you'll be good because you have your baiscs down, you just need to work on puttig it to action. 
 
-204 and 240 still needs work and improvement 
+Derek: "I posted some more questions today. So, if you’ve got the Module 1 fundamentals in good shape, and can do all the Module 2 questions in the ECE 240 Practice Problems pdf and in the Midterm Review pdf (the new ones I made today - I’ll post solutions), then you’re really all set. Review the slides from class, too, make sure you’ve got the high-level understanding locked in, make sure you can use nodal, and you’re all good."
+
+
 205 shillin 
 
 ![[Pasted image 20240222125405.png]]

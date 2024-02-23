@@ -30,4 +30,7 @@ Shopping list:
 - fruits 
 - mushrooms 
 - bacon
-- 
+- milk
+- eggs
+- water crate
+- avocado+bread

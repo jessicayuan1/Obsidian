@@ -40,7 +40,7 @@
             }
           },
           {
-            "id": "cad9251aa65963bf",
+            "id": "d369a26a2284e45b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,6 +48,16 @@
                 "file": "Weekly Notes/Reading Week.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "306abb18aaf49395",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Pasted image 20240222125405.png"
               }
             }
           },
@@ -215,13 +225,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cad9251aa65963bf",
+  "active": "d369a26a2284e45b",
   "lastOpenFiles": [
+    "Home/Finding hapines witin yourself.md",
+    "Winter 2024/Mark Breakdown.md",
+    "Weekly Notes/Reading Week.md",
+    "Home/Fridge.md",
     "Attachments/Pasted image 20240222125405.png",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Trees -- Tutorial 5.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Red Black Trees.md",
-    "Weekly Notes/Reading Week.md",
-    "Winter 2024/Mark Breakdown.md",
     "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
     "Winter 2024/ECE 240 Electronic Circuits/ECE 240 Electronic Circuits.md",
     "Winter 2024/ECE 204 Numerical Methods/ECE 204 Numerical Methods.md",
@@ -229,7 +241,6 @@
     "Winter 2024/ECE 250 Algorithms and Data Structures/Midterm Exam Overview.md",
     "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
     "Templates/Date Template.md",
-    "Home/Fridge.md",
     "Home/Darius.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L2-Algorithms.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L3-BigO.pdf",
@@ -267,7 +278,6 @@
     "Important Documents/Release Notes.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Untitled 1.png",
     "Untitled 4.canvas"
   ]
 }
