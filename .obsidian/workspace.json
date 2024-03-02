@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c4550e9b78d9d07",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf"
-              }
-            }
-          },
-          {
-            "id": "2cc2584796b9789f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf"
-              }
-            }
-          },
-          {
             "id": "f412b3c7b8bb5376",
             "type": "leaf",
             "state": {
@@ -52,51 +32,19 @@
             }
           },
           {
-            "id": "306abb18aaf49395",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Pasted image 20240222125405.png"
-              }
-            }
-          },
-          {
-            "id": "5b6566885a79aa79",
+            "id": "82d78d850ca2ca7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter 2024/ECE 250 Algorithms and Data Structures/Red Black Trees.md",
+                "file": "Weekly Notes/Week of 2024-03-04.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "d4bc7eeed9d8b41c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Winter 2024/ECE 250 Algorithms and Data Structures/Trees -- Tutorial 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b96f3fb5d522a95",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Winter 2024/ECE 222 Digital Computers/midtermPractice.pdf"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
+                "file": "Weekly Notes/Week of 2024-03-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
+                "file": "Weekly Notes/Week of 2024-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf"
+                "file": "Weekly Notes/Week of 2024-03-04.md"
               }
             }
           }
@@ -225,26 +173,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2cc2584796b9789f",
+  "active": "82d78d850ca2ca7d",
   "lastOpenFiles": [
-    "Weekly Notes/Midterm Week.md",
-    "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
     "Weekly Notes/Reading Week.md",
+    "Winter 2024/Mark Breakdown.md",
+    "Attachments/Pasted image 20240222125405.png",
+    "Home/Darius.md",
+    "Weekly Notes/Week of 2024-03-04.md",
+    "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
+    "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
+    "Weekly Notes/Midterm Week.md",
     "Screen Shot 2024-02-23 at 6.20.28 PM.png",
     "Screen Shot 2024-02-23 at 3.03.27 PM.png",
     "Home/Finding hapines witin yourself.md",
-    "Winter 2024/Mark Breakdown.md",
     "Home/Fridge.md",
-    "Attachments/Pasted image 20240222125405.png",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Trees -- Tutorial 5.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Red Black Trees.md",
-    "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
     "Winter 2024/ECE 240 Electronic Circuits/ECE 240 Electronic Circuits.md",
     "Winter 2024/ECE 204 Numerical Methods/ECE 204 Numerical Methods.md",
     "Winter 2024/ECE 222 Digital Computers/midtermPractice.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Midterm Exam Overview.md",
     "Templates/Date Template.md",
-    "Home/Darius.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L2-Algorithms.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L3-BigO.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L4-ADTs.pdf",
@@ -269,8 +218,6 @@
     "Weekly Notes/Week of 2024-01-28.md",
     "What's in the fridge?.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/01-31 Tree Traversals.md",
-    "Weekly Notes/Week of 2024-01-20.md",
-    "Templates/Weekly Note Template.md",
     "Screen Shot 2024-01-25 at 12.19.23 PM.png",
     "Pasted image 20240111182056.png",
     "Untitled.canvas",

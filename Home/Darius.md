@@ -8,12 +8,12 @@
 
 
 
-| Reasons to not | Counter-argument + Rationale |
-| ---- | ---- |
-| In class, see him everyday, stays attached, less work-life balance without mental fortitude | Will build mental separation+healthy detachment/change attachment style, we share the same schedule<br>For him, I'd make the exception |
-| I can be demanding and a bitch | He can take it (but he has feelings too) |
-|  |  |
-|  |  |
+| Reasons to not                                                                                                                                                                                                                                                                                                                         | Counter-argument + Rationale                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| In class, see him everyday, stays attached, less work-life balance without mental fortitude                                                                                                                                                                                                                                            | Will build mental separation+healthy detachment/change attachment style, we share the same schedule<br>For him, I'd make the exception |
+| I can be demanding and a bitch                                                                                                                                                                                                                                                                                                         | He can take it (but he has feelings too)                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                        |
+| I prefer when he just tells me what the fuck to do instead of asking me do you want to sit here do you want that  stop giving me more questions to answer it's already really hard being seen with him what the fuck can you just make my life esierwhen i'm with you a nd decide for me i'm not stupposed to think when i'm with you. |                                                                                                                                        |
 
 
 
@@ -21,38 +21,37 @@
 
 
 
-| Reasons to | Counter |
-| ---- | ---- |
-| We better each other -- socially, academically, chessly, programming+git duo, share ambitions, decisiveness, hobbies, exploring foods we love, cookingly (I make him be resourceful and he teaches the western tech+ recipe following),  -- |  |
-| Both experiences are new | Both relate it to other people (relational thinking is instinctive), we've both said that we're better than prevs |
-| Fuck it you already did shit together | Simply more emotional understanding |
-| Only person in class I'd date since I fully know the guy |  |
-| New Years was awershum + his family lieks me + doudou  |  |
-| Strong ;) Smells good |  |
-| Will full send help if I really needed it |  |
-| We're both givers |  |
-| Both understanding and the friendship is kinda forever (we were both friends with each other through not from initial physical attraction) | Debatable-- re:first impression |
-| He romanticc | He isn't -- he promised reservation and flowers but didn't get either ahead of time  |
-| Everything on the list (fun awesome adventures and trips) |  |
-| Both into each other, compliment each other randomly, makes each other more confident |  |
-| On jia's good list |  |
-| Helps you say things and make small talk in public (being able to turn brain off) |  |
-| Wasian babies (that one chatime drink) |  |
-| He is a literal chef (and you love food) |  |
-| Stable pillar of logic<br>Share same level of empathy | He doesn't get the cultural shit sometimes<br>Counter to counter: Just hang out more with maggie<br>C-C-C: dependent on maggie and she hears all your rants |
-| Both respect each other and both view each other as equals |  |
-|  |  |
-| Makes me more active (u wanted that) |  |
-| He was raised in a dude family so he has the ability to be more masculine than my already big dawg energy | All bois are bebes on the inside and you're too nurturing<br>He doesn't know how to know what ou want  |
-| Both remember things about each other |  |
-|  |  |
+| Reasons to                                                                                                                                                                                                                                  | Counter                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| We better each other -- socially, academically, chessly, programming+git duo, share ambitions, decisiveness, hobbies, exploring foods we love, cookingly (I make him be resourceful and he teaches the western tech+ recipe following),  -- |                                                                                                                                                             |
+| Both experiences are new                                                                                                                                                                                                                    | Both relate it to other people (relational thinking is instinctive), we've both said that we're better than prevs                                           |
+| Fuck it you already did shit together                                                                                                                                                                                                       | Simply more emotional understanding                                                                                                                         |
+| Only person in class I'd date since I fully know the guy                                                                                                                                                                                    |                                                                                                                                                             |
+| New Years was awershum + his family lieks me + doudou                                                                                                                                                                                       |                                                                                                                                                             |
+| Strong ;) Smells good                                                                                                                                                                                                                       |                                                                                                                                                             |
+| Will full send help if I really needed it                                                                                                                                                                                                   |                                                                                                                                                             |
+| We're both givers                                                                                                                                                                                                                           |                                                                                                                                                             |
+| Both understanding and the friendship is kinda forever (we were both friends with each other through not from initial physical attraction)                                                                                                  | Debatable-- re:first impression                                                                                                                             |
+| He romanticc                                                                                                                                                                                                                                | He isn't -- he promised reservation and flowers but didn't get either ahead of time                                                                         |
+| Everything on the list (fun awesome adventures and trips)                                                                                                                                                                                   |                                                                                                                                                             |
+| Both into each other, compliment each other randomly, makes each other more confident                                                                                                                                                       |                                                                                                                                                             |
+| On jia's good list                                                                                                                                                                                                                          |                                                                                                                                                             |
+| Helps you say things and make small talk in public (being able to turn brain off)                                                                                                                                                           |                                                                                                                                                             |
+| Wasian babies (that one chatime drink)                                                                                                                                                                                                      |                                                                                                                                                             |
+| He is a literal chef (and you love food)                                                                                                                                                                                                    |                                                                                                                                                             |
+| Stable pillar of logic<br>Share same level of empathy                                                                                                                                                                                       | He doesn't get the cultural shit sometimes<br>Counter to counter: Just hang out more with maggie<br>C-C-C: dependent on maggie and she hears all your rants |
+| Both respect each other and both view each other as equals                                                                                                                                                                                  |                                                                                                                                                             |
+|                                                                                                                                                                                                                                             |                                                                                                                                                             |
+| Makes me more active (u wanted that)                                                                                                                                                                                                        |                                                                                                                                                             |
+| He was raised in a dude family so he has the ability to be more masculine than my already big dawg energy                                                                                                                                   | All bois are bebes on the inside and you're too nurturing<br>He doesn't know how to know what ou want                                                       |
+| Both remember things about each other                                                                                                                                                                                                       |                                                                                                                                                             |
+|                                                                                                                                                                                                                                             |                                                                                                                                                             |
+|                                                                                                                                                                                                                                             |                                                                                                                                                             |
 
 
 Redacted
 ```
-	function() {
-	
-		asdf}
+	It really frustrated when I told him that I would be out and he didn't fucking pick up and was really incosiderate even after changing up the plans like wthat the actual fuck that shit pissed me off today. anbd OI iket lhgiumn make oueejolejk;a;jasfgl;jk;ljnfjkln;a;jlanjd i i'mn; sk bm\]amnd at  yse,f fkfr  kjt  ej ga ,etkl ck  h  bjcate wbat j ae=was fee,j gat tbe tj e ht tbe cba ge kf c\ex;alectkl atl rea,,y ljssed  etbne fjhcm klff a d jk wa ted verjktas skl tbat/s  wbhg jk jd n;/t m kw wbat tkl get ], Tbjs sbjt  ames ne sk  aed  ASEDJ LIH CBED BJ TWJCE HT J GHESS TBAT WKRMS Too. What the fuck it was fine for him nto not for me and when topped it off with adapt more. 
 ```
 
 > [!NOTE]
