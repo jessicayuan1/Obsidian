@@ -15,16 +15,17 @@ To Do:
 	- [ ] **Go through videos and rewrite blank slides problems, understand the charts**
 	- [ ] Do the practice 
 	- [ ] Follow exam prep video
-	- [ ] Schmidt Trigger
-	- [ ] 
+	- [x] Schmitt Trigger
+	- [ ] Single and Differential Signalling
+	- [ ] **Sheet**
 	
 - [ ] 204 Assignment questions + understanding : You're  30%
 	- [ ] [Course home ](https://ece.uwaterloo.ca/~dwharder/nm/Lecture_materials/)
-		- [ ] Review interpolating polynomials (announcement)
+		- [x] Review interpolating polynomials (announcement)
 		- [ ] Learn best squares least fitting polynomials???
 
 	- [ ] Week 2
-	- [ ] Week 3 (Interpolation, Bracketing)
+	- [ ] Week 3 (Interpolation, Bracketing) 50%
 	- [ ] Week 4
 	- [ ] [Previous Midterms](https://ece.uwaterloo.ca/~dwharder/nm/Examinations/pdfs/1201.ECE.204.midterm.pdf)
 	- [ ] Week 5
@@ -68,6 +69,14 @@ Questions:
 5. How do subroutines work in ARM?
 	Subroutines store a link register in R15 (address of the next line of code to execute immediately after subroutine completes) and uses a program counter R15 to hold the address of the instruction from memory.
 		BL - two things: keeps next line R14, sets PC to address of foo subroutine
+
+
+Secant method 
+xn+1 = xn -    / approxmiated slope
+![[Screen Shot 2024-02-23 at 3.03.27 PM.png]]
+
+![[Screen Shot 2024-02-23 at 6.20.28 PM.png]]
+
 
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
