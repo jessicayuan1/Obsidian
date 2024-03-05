@@ -42,6 +42,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9716fea71919e837",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -90,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,19 +154,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "4c9c84a68fa23843",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Weekly Notes/Week of 2024-03-04.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -175,13 +176,13 @@
   },
   "active": "82d78d850ca2ca7d",
   "lastOpenFiles": [
+    "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
+    "Weekly Notes/Week of 2024-03-04.md",
     "Weekly Notes/Reading Week.md",
     "Winter 2024/Mark Breakdown.md",
     "Attachments/Pasted image 20240222125405.png",
     "Home/Darius.md",
-    "Weekly Notes/Week of 2024-03-04.md",
     "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
-    "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
     "Weekly Notes/Midterm Week.md",
     "Screen Shot 2024-02-23 at 6.20.28 PM.png",
     "Screen Shot 2024-02-23 at 3.03.27 PM.png",
