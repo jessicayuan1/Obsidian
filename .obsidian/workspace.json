@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "250 lab trees tries.md",
+                "file": "Weekly Notes/Week of 2024-03-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "250 lab trees tries.md",
+                "file": "Weekly Notes/Week of 2024-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,10 +186,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1476a5fdfdc42bd9",
+  "active": "82d78d850ca2ca7d",
   "lastOpenFiles": [
-    "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
     "250 lab trees tries.md",
+    "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
     "Weekly Notes/Week of 2024-03-04.md",
     "Weekly Notes/Reading Week.md",
     "Winter 2024/Mark Breakdown.md",
