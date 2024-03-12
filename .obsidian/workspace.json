@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly Notes/Week of 2024-03-04.md",
+                "file": "Weekly Notes/Week of 2024-03-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,8 +112,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Notes/Week of 2024-03-04.md",
+                "file": "Weekly Notes/Week of 2024-03-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Notes/Week of 2024-03-04.md",
+                "file": "Weekly Notes/Week of 2024-03-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,6 +163,16 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff09bb355b363709",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Weekly Notes/Week of 2024-03-11.md"
               }
             }
           }
@@ -188,13 +197,14 @@
   },
   "active": "82d78d850ca2ca7d",
   "lastOpenFiles": [
+    "Home/Darius.md",
+    "Weekly Notes/Week of 2024-03-11.md",
+    "Weekly Notes/Week of 2024-03-04.md",
     "250 lab trees tries.md",
     "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
-    "Weekly Notes/Week of 2024-03-04.md",
     "Weekly Notes/Reading Week.md",
     "Winter 2024/Mark Breakdown.md",
     "Attachments/Pasted image 20240222125405.png",
-    "Home/Darius.md",
     "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
     "Weekly Notes/Midterm Week.md",
     "Screen Shot 2024-02-23 at 6.20.28 PM.png",
