@@ -1,3 +1,10 @@
+```
+valgrind -s --error-exitcode=1 --leak-check=yes --exit-on-first-error=yes ./spellcheck.out < ./inputs/50k.in
+
+
+```
+```valgrind -s --error-exitcode=1 --leak-check=yes --exit-on-first-error=yes ./spellcheck.out < ./inputs/50k.in
+
 ```cpp
 	//Erase
 	

@@ -6,6 +6,7 @@
       {
         "id": "9567a4bdc43bb82f",
         "type": "tabs",
+        "dimension": 58.16618911174785,
         "children": [
           {
             "id": "f412b3c7b8bb5376",
@@ -66,7 +67,24 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
+      },
+      {
+        "id": "58de6c3924ab5a4c",
+        "type": "tabs",
+        "dimension": 41.833810888252145,
+        "children": [
+          {
+            "id": "2609a3096a828d95",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5dd3bf3bbe4f56ea",
@@ -132,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Notes/Week of 2024-03-11.md",
+                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Notes/Week of 2024-03-11.md",
+                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly Notes/Week of 2024-03-11.md"
+                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf"
               }
             }
           }
@@ -195,13 +214,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82d78d850ca2ca7d",
+  "active": "9716fea71919e837",
   "lastOpenFiles": [
-    "Home/Darius.md",
-    "Weekly Notes/Week of 2024-03-11.md",
-    "Weekly Notes/Week of 2024-03-04.md",
-    "250 lab trees tries.md",
     "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
+    "250 lab trees tries.md",
+    "Weekly Notes/Week of 2024-03-11.md",
+    "Home/Darius.md",
+    "Weekly Notes/Week of 2024-03-04.md",
     "Weekly Notes/Reading Week.md",
     "Winter 2024/Mark Breakdown.md",
     "Attachments/Pasted image 20240222125405.png",
@@ -240,7 +259,6 @@
     "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 Data Structures and Algorithms.md",
     "Screen Shot 2024-02-08 at 12.19.16 AM.png",
     "Weekly Notes/Week of 2024-01-28.md",
-    "What's in the fridge?.md",
     "Screen Shot 2024-01-25 at 12.19.23 PM.png",
     "Pasted image 20240111182056.png",
     "Untitled.canvas",
