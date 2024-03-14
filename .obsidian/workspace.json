@@ -6,15 +6,15 @@
       {
         "id": "9567a4bdc43bb82f",
         "type": "tabs",
-        "dimension": 58.16618911174785,
+        "dimension": 81.59660897209467,
         "children": [
           {
-            "id": "f412b3c7b8bb5376",
+            "id": "2cc2584796b9789f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter 2024/Mark Breakdown.md",
+                "file": "Weekly Notes/Week of 2024-03-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,31 +33,7 @@
             }
           },
           {
-            "id": "82d78d850ca2ca7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekly Notes/Week of 2024-03-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1476a5fdfdc42bd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "250 lab trees tries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9716fea71919e837",
+            "id": "92b8d76d897c5eef",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -66,16 +42,15 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
-        "id": "58de6c3924ab5a4c",
+        "id": "2c0198800d1e1f0d",
         "type": "tabs",
-        "dimension": 41.833810888252145,
+        "dimension": 18.403391027905332,
         "children": [
           {
-            "id": "2609a3096a828d95",
+            "id": "a5c64d0f4180f52b",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -134,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5dd3bf3bbe4f56ea",
@@ -151,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
+                "file": "Weekly Notes/Week of 2024-03-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
+                "file": "Weekly Notes/Week of 2024-03-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,17 +160,17 @@
             }
           },
           {
-            "id": "ff09bb355b363709",
+            "id": "4c9c84a68fa23843",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf"
+                "file": "Weekly Notes/Week of 2024-03-11.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,28 +188,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9716fea71919e837",
+  "active": "2cc2584796b9789f",
   "lastOpenFiles": [
     "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
-    "250 lab trees tries.md",
+    "Winter 2024/ECE 205 Advanced Calculus/2024-01-11 Ordinary Differential Equations.md",
     "Weekly Notes/Week of 2024-03-11.md",
-    "Home/Darius.md",
-    "Weekly Notes/Week of 2024-03-04.md",
-    "Weekly Notes/Reading Week.md",
-    "Winter 2024/Mark Breakdown.md",
-    "Attachments/Pasted image 20240222125405.png",
-    "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
     "Weekly Notes/Midterm Week.md",
+    "Winter 2024/Mark Breakdown.md",
+    "Weekly Notes/Week of 2024-01-11.md",
+    "Weekly Notes/Week of 2024-03-04.md",
     "Screen Shot 2024-02-23 at 6.20.28 PM.png",
     "Screen Shot 2024-02-23 at 3.03.27 PM.png",
+    "250 lab trees tries.md",
+    "Weekly Notes/Reading Week.md",
+    "Attachments/Pasted image 20240222125405.png",
+    "Winter 2024/ECE 250 Algorithms and Data Structures/Red Black Trees.md",
+    "Winter 2024/ECE 250 Algorithms and Data Structures/Trees -- Tutorial 5.md",
+    "Winter 2024/ECE 222 Digital Computers/midtermPractice.pdf",
+    "Home/Darius.md",
     "Home/Finding hapines witin yourself.md",
     "Home/Fridge.md",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/Trees -- Tutorial 5.md",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/Red Black Trees.md",
     "Winter 2024/ECE 240 Electronic Circuits/ECE 240 Electronic Circuits.md",
     "Winter 2024/ECE 204 Numerical Methods/ECE 204 Numerical Methods.md",
-    "Winter 2024/ECE 222 Digital Computers/midtermPractice.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Midterm Exam Overview.md",
+    "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
     "Templates/Date Template.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L2-Algorithms.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L3-BigO.pdf",
@@ -256,9 +232,7 @@
     "Red Black Trees.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/02-01 Binary Search Tree Applications.md",
     "Interview Questions.md",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 Data Structures and Algorithms.md",
     "Screen Shot 2024-02-08 at 12.19.16 AM.png",
-    "Weekly Notes/Week of 2024-01-28.md",
     "Screen Shot 2024-01-25 at 12.19.23 PM.png",
     "Pasted image 20240111182056.png",
     "Untitled.canvas",
