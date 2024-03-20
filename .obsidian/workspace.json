@@ -43,6 +43,18 @@
             }
           },
           {
+            "id": "af02fa548e532ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1476a5fdfdc42bd9",
             "type": "leaf",
             "state": {
@@ -77,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "58de6c3924ab5a4c",
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Notes/Week of 2024-03-17.md",
+                "file": "Interview Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Notes/Week of 2024-03-17.md",
+                "file": "Interview Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly Notes/Week of 2024-03-17.md"
+                "file": "Interview Questions.md"
               }
             }
           }
@@ -223,16 +235,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "982222c843631a22",
+  "active": "af02fa548e532ade",
   "lastOpenFiles": [
+    "Weekly Notes/Week of 2024-03-17.md",
+    "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
     "250 lab trees tries.md",
     "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
     "Winter 2024/ECE 222 Digital Computers/Memory.md",
     "Pasted image 20240318144720.png",
     "Untitled 1.md",
     "Untitled 2.md",
-    "Weekly Notes/Week of 2024-03-17.md",
-    "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
     "Winter 2024/Mark Breakdown.md",
     "Weekly Notes/Reading Week.md",
     "Weekly Notes/Week of 2024-03-11.md",

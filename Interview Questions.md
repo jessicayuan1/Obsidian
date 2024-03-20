@@ -33,6 +33,15 @@ P
 comp eng at waterloo 
 
 
+Prepare for TTC:
+- How do you handle a difficult situation?
+- Explain your experience in next.js
+- What was the most challenging task and how did you handle it?
+- Explain your experience in 
+- VBA?
+- Crystal reports?
+- Explain your experience in C# and how to create an object in it. 
+
 
 
 
