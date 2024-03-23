@@ -6,7 +6,7 @@
       {
         "id": "9567a4bdc43bb82f",
         "type": "tabs",
-        "dimension": 81.37535816618912,
+        "dimension": 63.46153846153846,
         "children": [
           {
             "id": "f412b3c7b8bb5376",
@@ -15,28 +15,6 @@
               "type": "markdown",
               "state": {
                 "file": "Winter 2024/Mark Breakdown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82d78d850ca2ca7d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf"
-              }
-            }
-          },
-          {
-            "id": "982222c843631a22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekly Notes/Week of 2024-03-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,31 +48,33 @@
             "id": "9716fea71919e837",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf"
+                "file": "Winter 2024/ECE 240 Electronic Circuits/Office Hours.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "2007a2fb95d3d383",
+            "id": "02049070fe94bd29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter 2024/ECE 222 Digital Computers/Memory.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "58de6c3924ab5a4c",
         "type": "tabs",
-        "dimension": 18.624641833810887,
+        "dimension": 36.53846153846153,
         "children": [
           {
             "id": "2609a3096a828d95",
@@ -237,15 +217,18 @@
   },
   "active": "af02fa548e532ade",
   "lastOpenFiles": [
-    "Weekly Notes/Week of 2024-03-17.md",
-    "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
-    "250 lab trees tries.md",
+    "Winter 2024/ECE 240 Electronic Circuits/Office Hours.md",
+    "Untitled 1.md",
+    "Interview Questions.md",
     "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
     "Winter 2024/ECE 222 Digital Computers/Memory.md",
-    "Pasted image 20240318144720.png",
-    "Untitled 1.md",
-    "Untitled 2.md",
     "Winter 2024/Mark Breakdown.md",
+    "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
+    "Winter 2024/ECE 250 Algorithms and Data Structures/Intro to Graphs.md",
+    "Weekly Notes/Week of 2024-03-17.md",
+    "250 lab trees tries.md",
+    "Pasted image 20240318144720.png",
+    "Untitled 2.md",
     "Weekly Notes/Reading Week.md",
     "Weekly Notes/Week of 2024-03-11.md",
     "Untitled.md",
@@ -273,9 +256,6 @@
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L8-BSTs.pdf",
     "Weekly Notes/Week of 2024-02-13.md",
     "Weekly Notes/Week of 2024-02-07.md",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/2024-01-23 Linked List.md",
-    "Templates/Week of 2024-01-28.md",
-    "Winter 2024/ECE 222 Digital Computers/ECE 222 Digital Computers.md",
     "Attachments/Screen Shot 2024-02-08 at 12.19.16 AM.png",
     "Attachments/Screen Shot 2024-01-25 at 12.19.23 PM.png",
     "Attachments/Pasted image 20240111182056.png",
