@@ -21,18 +21,6 @@
             }
           },
           {
-            "id": "af02fa548e532ade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "39e2997c708e451d",
             "type": "leaf",
             "state": {
@@ -57,12 +45,12 @@
             }
           },
           {
-            "id": "9716fea71919e837",
+            "id": "317779d612bc59c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter 2024/ECE 240 Electronic Circuits/Office Hours.md",
+                "file": "Interview Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "58de6c3924ab5a4c",
@@ -229,15 +217,15 @@
   },
   "active": "23b149b96def0501",
   "lastOpenFiles": [
-    "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 - DataStructures_and_Algorithm Analysis.pdf",
+    "Interview Questions.md",
     "Weekly Notes/Week of 2024-03-24.md",
+    "Untitled 1.md",
+    "Winter 2024/ECE 240 Electronic Circuits/Office Hours.md",
+    "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 - DataStructures_and_Algorithm Analysis.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Graphs Lab.md",
     "Winter 2024/Mark Breakdown.md",
-    "Interview Questions.md",
-    "Winter 2024/ECE 240 Electronic Circuits/Office Hours.md",
     "250 lab trees tries.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 Data Structures and Algorithms.md",
-    "Untitled 1.md",
     "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
     "Winter 2024/ECE 222 Digital Computers/Memory.md",
     "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",

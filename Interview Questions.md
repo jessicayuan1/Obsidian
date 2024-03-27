@@ -20,7 +20,9 @@ What kind of task management software do you guys use? Do you use two week sprin
 
 
 
-
+==How do you make the most out of using Redis and Ria==k as your data storage system?
+Where do you see EXO Insights going?
+Does the recent unity licensing apply to EXO Insights?
 
 #### Notes
 MongoDB is a database that focuses more on the storage and retrieval of data rather than typical relation or tabular data management. 
@@ -54,7 +56,7 @@ Prepare for TTC:
 - Explain your experience in C# and how to create an object in it. 
 
 
-ASP.NET (HTML CSS)
+ASP.NET (C# HTML CSS)
 
 About;
 
@@ -65,6 +67,7 @@ About;
 
 
 
+dotnet new console -o cs-app
 
 
 
