@@ -21,8 +21,22 @@ What kind of task management software do you guys use? Do you use two week sprin
 
 
 ==How do you make the most out of using Redis and Ria==k as your data storage system?
+
 Where do you see EXO Insights going?
-Does the recent unity licensing apply to EXO Insights?
+
+If I could show you, my project
+
+
+Why interested:
+I had a brother who got me into games
+Entering undergrad, I wrote about VR and game development in my application, especially during times when people needed connection the most
+That passion was channeled into a Unity game i developed over a weekend 
+I always saw myself being a part of a game development team
+
+Good fit:
+My skills in database management when working with user info and claims data at CASolar
+My projects in Unity3D 
+
 
 #### Notes
 MongoDB is a database that focuses more on the storage and retrieval of data rather than typical relation or tabular data management. 
@@ -61,13 +75,18 @@ ASP.NET (C# HTML CSS)
 About;
 
 - experienced in front and abck end development through canadian solar
-- provided documentatoin for release notes
+- provi==ded documentatoin for release notes==
 - using self direction, completed this task as well as maintaining future use
 - 
 
 
+What are some things that can challenge an organization such as TTC
+When faced with implementing a change, what kind of decision do you make?
+How do you make your decision?
 
-dotnet new console -o cs-app
+
+
+
 
 
 
