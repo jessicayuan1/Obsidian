@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Questions.md",
+                "file": "Weekly Notes/Week of 2024-03-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Questions.md",
+                "file": "Weekly Notes/Week of 2024-03-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview Questions.md",
+                "file": "Weekly Notes/Week of 2024-03-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview Questions.md"
+                "file": "Weekly Notes/Week of 2024-03-24.md"
               }
             }
           }
@@ -205,9 +205,9 @@
   },
   "active": "317779d612bc59c7",
   "lastOpenFiles": [
+    "Interview Questions.md",
     "Home/LinkedIn!.md",
     "Weekly Notes/Week of 2024-03-24.md",
-    "Interview Questions.md",
     "Home/Absolutely Jessica.md",
     "Home/Darius.md",
     "Untitled 1.md",
