@@ -6,7 +6,7 @@
       {
         "id": "9567a4bdc43bb82f",
         "type": "tabs",
-        "dimension": 63.46153846153846,
+        "dimension": 52.0066889632107,
         "children": [
           {
             "id": "f412b3c7b8bb5376",
@@ -50,9 +50,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly Notes/Week of 2024-03-24.md",
+                "file": "Weekly Notes/Week of 2024-04-01.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "75918a97b6cfc4d5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf"
               }
             }
           }
@@ -62,7 +72,7 @@
       {
         "id": "58de6c3924ab5a4c",
         "type": "tabs",
-        "dimension": 36.53846153846153,
+        "dimension": 47.9933110367893,
         "children": [
           {
             "id": "2609a3096a828d95",
@@ -140,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Notes/Week of 2024-03-24.md",
+                "file": "Weekly Notes/Week of 2024-04-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Notes/Week of 2024-03-24.md",
+                "file": "Weekly Notes/Week of 2024-04-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly Notes/Week of 2024-03-24.md"
+                "file": "Weekly Notes/Week of 2024-04-01.md"
               }
             }
           }
@@ -205,9 +215,12 @@
   },
   "active": "317779d612bc59c7",
   "lastOpenFiles": [
+    "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
+    "Weekly Notes/Week of 2024-04-01.md",
+    "Weekly Notes/Week of 2024-03-24.md",
+    "Untitled 2.md",
     "Interview Questions.md",
     "Home/LinkedIn!.md",
-    "Weekly Notes/Week of 2024-03-24.md",
     "Home/Absolutely Jessica.md",
     "Home/Darius.md",
     "Untitled 1.md",
@@ -219,11 +232,9 @@
     "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 Data Structures and Algorithms.md",
     "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
     "Winter 2024/ECE 222 Digital Computers/Memory.md",
-    "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Intro to Graphs.md",
     "Weekly Notes/Week of 2024-03-17.md",
     "Pasted image 20240318144720.png",
-    "Untitled 2.md",
     "Weekly Notes/Reading Week.md",
     "Weekly Notes/Week of 2024-03-11.md",
     "Untitled.md",
@@ -236,8 +247,6 @@
     "Home/Fridge.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Trees -- Tutorial 5.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Red Black Trees.md",
-    "Winter 2024/ECE 240 Electronic Circuits/ECE 240 Electronic Circuits.md",
-    "Winter 2024/ECE 204 Numerical Methods/ECE 204 Numerical Methods.md",
     "Winter 2024/ECE 222 Digital Computers/midtermPractice.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L2-Algorithms.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L3-BigO.pdf",
