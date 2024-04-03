@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "58de6c3924ab5a4c",
@@ -78,9 +78,11 @@
             "id": "2609a3096a828d95",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf"
+                "file": "Winter 2024/ECE 222 Digital Computers/Cache, Secondary Storage.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -150,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Notes/Week of 2024-04-01.md",
+                "file": "Winter 2024/ECE 222 Digital Computers/Cache, Secondary Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Notes/Week of 2024-04-01.md",
+                "file": "Winter 2024/ECE 222 Digital Computers/Cache, Secondary Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly Notes/Week of 2024-04-01.md"
+                "file": "Winter 2024/ECE 222 Digital Computers/Cache, Secondary Storage.md"
               }
             }
           }
@@ -213,9 +215,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "317779d612bc59c7",
+  "active": "2609a3096a828d95",
   "lastOpenFiles": [
     "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
+    "Winter 2024/ECE 222 Digital Computers/Cache, Secondary Storage.md",
     "Weekly Notes/Week of 2024-04-01.md",
     "Weekly Notes/Week of 2024-03-24.md",
     "Untitled 2.md",
@@ -246,7 +249,6 @@
     "Home/Finding hapines witin yourself.md",
     "Home/Fridge.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Trees -- Tutorial 5.md",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/Red Black Trees.md",
     "Winter 2024/ECE 222 Digital Computers/midtermPractice.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L2-Algorithms.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L3-BigO.pdf",
