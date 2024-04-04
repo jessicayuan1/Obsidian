@@ -5,6 +5,11 @@
 [[ 01-31 Tree Traversals]]
 [[Red Black Trees]]
 
+```
+valgrind -s --error-exitcode=1 --leak-check=yes --track-origins=yes --exit-on-first-error=yes ./graph.out < ./inputs/250k-test1.in
+```
+
+
 ![[Pasted image 20240111182056.png]]
 
 Syllabus: 
