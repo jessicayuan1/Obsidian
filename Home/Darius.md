@@ -7,6 +7,7 @@
 
 
 
+ It’s something I should change and when your friends talk about how they tried hard in their it reminds of of how you didn’t do the more frilly things without being asked to by me or how at the time we had to prioritize school. A reason for this is that it was incredibly hard to let you in and once I did, I poured everything emotionally towards us and, probably, I expected the equivalent from you. Sometimes I have this negative notion that we need to end things and start completely over so we can do things right the first time, but inside I’m hoping you’ll try like it’s our first anyway.
 
 | Reasons to not                                                                              | Counter-argument + Rationale                                                                                                           |
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
