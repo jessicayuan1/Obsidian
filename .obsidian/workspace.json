@@ -6,6 +6,7 @@
       {
         "id": "9567a4bdc43bb82f",
         "type": "tabs",
+        "dimension": 22.978303747534518,
         "children": [
           {
             "id": "f412b3c7b8bb5376",
@@ -90,7 +91,47 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
+      },
+      {
+        "id": "f9cd26afea74deca",
+        "type": "tabs",
+        "dimension": 77.02169625246549,
+        "children": [
+          {
+            "id": "3ed00d02073a578c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf"
+              }
+            }
+          },
+          {
+            "id": "9a539205270d33b2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Winter 2024/ECE 222 Digital Computers/ECE 222 - Computer Organization and Design ARM edition.pdf"
+              }
+            }
+          },
+          {
+            "id": "3eabc4f6ee631e8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weekly Notes/Week of 2024-04-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winter 2024/ECE 222 Digital Computers/Virtual Memory.md",
+                "file": "Weekly Notes/Week of 2024-04-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winter 2024/ECE 222 Digital Computers/Virtual Memory.md",
+                "file": "Weekly Notes/Week of 2024-04-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Winter 2024/ECE 222 Digital Computers/Virtual Memory.md"
+                "file": "Weekly Notes/Week of 2024-04-01.md"
               }
             }
           }
@@ -219,17 +260,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c52b196dbf85a6c",
+  "active": "3eabc4f6ee631e8f",
   "lastOpenFiles": [
-    "Winter 2024/ECE 222 Digital Computers/Memory.md",
-    "Winter 2024/ECE 222 Digital Computers/Virtual Memory.md",
-    "Winter 2024/ECE 222 Digital Computers/midtermPractice.pdf",
     "Winter 2024/ECE 222 Digital Computers/ECE 222 - Computer Organization and Design ARM edition.pdf",
-    "Home/LinkedIn!.md",
-    "Weekly Notes/Week of 2024-04-01.md",
-    "Home/Darius.md",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 Data Structures and Algorithms.md",
     "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
+    "Weekly Notes/Week of 2024-04-01.md",
+    "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 Data Structures and Algorithms.md",
+    "Winter 2024/ECE 222 Digital Computers/Virtual Memory.md",
+    "Winter 2024/ECE 222 Digital Computers/Memory.md",
+    "Winter 2024/ECE 222 Digital Computers/midtermPractice.pdf",
+    "Home/LinkedIn!.md",
+    "Home/Darius.md",
     "Winter 2024/ECE 222 Digital Computers/Cache, Secondary Storage.md",
     "Weekly Notes/Week of 2024-03-24.md",
     "Untitled 2.md",
