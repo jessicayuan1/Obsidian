@@ -6,7 +6,7 @@
       {
         "id": "9567a4bdc43bb82f",
         "type": "tabs",
-        "dimension": 75.09377344336085,
+        "dimension": 58.43960990247562,
         "children": [
           {
             "id": "f412b3c7b8bb5376",
@@ -24,47 +24,9 @@
             "id": "39e2997c708e451d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Winter 2024/ECE 250 Algorithms and Data Structures/Graphs Lab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23b149b96def0501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home/LinkedIn!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c52b196dbf85a6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Winter 2024/ECE 222 Digital Computers/Virtual Memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b85596d51c98f764",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Winter 2024/ECE 222 Digital Computers/Memory.md",
-                "mode": "source",
-                "source": false
+                "file": "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 - DataStructures_and_Algorithm Analysis.pdf"
               }
             }
           },
@@ -91,12 +53,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "f9cd26afea74deca",
         "type": "tabs",
-        "dimension": 24.90622655663916,
+        "dimension": 41.56039009752438,
         "children": [
           {
             "id": "3ed00d02073a578c",
@@ -197,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Notes/Exam Week 1.md",
+                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Notes/Exam Week 1.md",
+                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly Notes/Exam Week 1.md"
+                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf"
               }
             }
           }
@@ -260,17 +222,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3eabc4f6ee631e8f",
+  "active": "75918a97b6cfc4d5",
   "lastOpenFiles": [
-    "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
+    "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 - DataStructures_and_Algorithm Analysis.pdf",
     "Weekly Notes/Exam Week 1.md",
+    "Home/LinkedIn!.md",
+    "Winter 2024/ECE 222 Digital Computers/Virtual Memory.md",
+    "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
     "Weekly Notes/Week of 2024-04-01.md",
     "Winter 2024/ECE 222 Digital Computers/ECE 222 - Computer Organization and Design ARM edition.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 Data Structures and Algorithms.md",
-    "Winter 2024/ECE 222 Digital Computers/Virtual Memory.md",
     "Winter 2024/ECE 222 Digital Computers/Memory.md",
     "Winter 2024/ECE 222 Digital Computers/midtermPractice.pdf",
-    "Home/LinkedIn!.md",
     "Home/Darius.md",
     "Winter 2024/ECE 222 Digital Computers/Cache, Secondary Storage.md",
     "Weekly Notes/Week of 2024-03-24.md",
@@ -280,7 +243,6 @@
     "Untitled 1.md",
     "Winter 2024/Mark Breakdown.md",
     "Winter 2024/ECE 240 Electronic Circuits/Office Hours.md",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 - DataStructures_and_Algorithm Analysis.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Graphs Lab.md",
     "250 lab trees tries.md",
     "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",

@@ -16,14 +16,20 @@
 - [ ] Exam practice
 ## Calc 205 
 - [ ] Heat equation assignment 10 questions
+- [ ] **Practice**: converting second order to system of two first order equations
 
 ## Aprox 204 
 - [ ] Learning the heat equation
-- [ ] 
+- [ ] Approximating solutions to **systems** of 1st order IVPs and solutions to **higher** order IVPs
+- Higher order: write as w(t) composed of wn(t)
+- Systems: use Heun's Euler
+	- Do an example
+- Shooting method questions have a lot of explanation, #8.
+	- Get used to using the secant method in order to do that question.
 
 ## Computers 222 
-- [ ] Problem Set 3 4 5
-	- [ ]  Filling in numbers question
+- [ ] Problem Set  4 5 6
+	- [ ]  Filling in table question
 - [ ] Final Exam W23
 - [ ] Final Exam F23
 
