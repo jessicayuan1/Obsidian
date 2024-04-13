@@ -17,10 +17,13 @@
 ## Calc 205 
 - [ ] Heat equation assignment 10 questions
 - [ ] **Practice**: converting second order to system of two first order equations
+- [ ] Assignment 10
 
 ## Aprox 204 
 - [ ] Learning the heat equation
 - [ ] Approximating solutions to **systems** of 1st order IVPs and solutions to **higher** order IVPs
+- [ ] Golden Ratio
+- [ ] Dormand Prince understanding of a = sqrt ( heps/2|y-z|)
 - Higher order: write as w(t) composed of wn(t)
 - Systems: use Heun's Euler
 	- Do an example
@@ -34,3 +37,15 @@
 - [ ] Final Exam F23
 
 ## Chem 109
+- [ ] Last assignment
+
+
+Sram is faster, 
+* 
+DRAM slower
+- need to refresh
+- for caches?
+222:
+Figuring out bank capacity 
+a programgenerates memory accesses which are in these blocks:
+set accsosiative
