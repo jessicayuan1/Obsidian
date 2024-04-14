@@ -14,6 +14,7 @@
 - [ ] Kruskal's MST algorithm
 - [ ] P12 Paradigms 
 - [ ] Exam practice
+- [ ] depth fs bfs
 ## Calc 205 
 - [ ] Heat equation assignment 10 questions
 - [ ] **Practice**: converting second order to system of two first order equations
