@@ -5,16 +5,16 @@
 - [ ] Practice questions
 
 ## DSA 250
-- [ ] Sorting algorithms
+- [x] Sorting algorithms
 - [ ] Dijkstra's traversal
 - [ ] Problem Sets
-- [ ] Radix sort?
+- [x] Radix sort?
 - [ ] p10 interference graphs and then color the graphs.
-- [ ] Prim's algorithm
-- [ ] Kruskal's MST algorithm
-- [ ] P12 Paradigms 
-- [ ] Exam practice
-- [ ] depth fs bfs
+- [x] Prim's algorithm
+- [x] Kruskal's MST algorithm
+- [x] P12 Paradigms 
+- [x] Exam practice
+- [x] depth fs bfs
 ## Calc 205 
 - [ ] Heat equation assignment 10 questions
 - [ ] **Practice**: converting second order to system of two first order equations
