@@ -1,3 +1,7 @@
+---
+tags:
+  - exams
+---
 
 ## Circuits 240
 - [ ] Crib sheet
@@ -6,9 +10,9 @@
 
 ## DSA 250
 - [x] Sorting algorithms
-- [ ] Dijkstra's traversal
+- [x] Dijkstra's traversal
 - [ ] Problem Sets
-- [x] Radix sort?
+- [x] Radix sort?e
 - [ ] p10 interference graphs and then color the graphs.
 - [x] Prim's algorithm
 - [x] Kruskal's MST algorithm
