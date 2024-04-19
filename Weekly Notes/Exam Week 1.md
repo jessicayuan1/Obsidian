@@ -7,6 +7,10 @@ tags:
 - [ ] Crib sheet
 - [ ] Module 5
 - [ ] Practice questions
+- [ ] Transistors
+- [ ] Filters questions
+- [ ] Design questions
+- [ ] Slides review (Schmitt trigger)
 
 ## DSA 250
 - [x] Sorting algorithms
