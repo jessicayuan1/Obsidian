@@ -8,6 +8,7 @@ tags:
 - [ ] Module 5
 - [ ] Practice questions
 - [ ] Transistors
+- [ ] Diodes
 - [ ] Filters questions
 - [ ] Design questions
 - [ ] Slides review (Schmitt trigger)
@@ -28,7 +29,7 @@ tags:
 - [ ] **Practice**: converting second order to system of two first order equations
 - [ ] Assignment 10
 
-## Aprox 204 
+## Doug 204 
 - [ ] Learning the heat equation
 - [ ] Approximating solutions to **systems** of 1st order IVPs and solutions to **higher** order IVPs
 - [ ] Golden Ratio
@@ -39,7 +40,7 @@ tags:
 - Shooting method questions have a lot of explanation, #8.
 	- Get used to using the secant method in order to do that question.
 
-## Computers 222 
+## Comp 222 
 - [ ] Problem Set  4 5 6
 	- [ ]  Filling in table question
 - [ ] Final Exam W23

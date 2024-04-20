@@ -135,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Notes/Exam Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Notes/Exam Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Weekly Notes/Exam Week 1.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -198,12 +194,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3eabc4f6ee631e8f",
+  "active": "a0f703b5f15ddd7c",
   "lastOpenFiles": [
+    "Weekly Notes/Exam Week 1.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 - DataStructures_and_Algorithm Analysis.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 Data Structures and Algorithms.md",
     "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
-    "Weekly Notes/Exam Week 1.md",
     "Winter 2024/Mark Breakdown.md",
     "Home/LinkedIn!.md",
     "Winter 2024/ECE 222 Digital Computers/Virtual Memory.md",
