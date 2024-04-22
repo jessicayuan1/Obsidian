@@ -4,15 +4,21 @@ tags:
 ---
 
 ## Circuits 240
-- [ ] Crib sheet
+- 
 - [ ] Module 5
-- [ ] Practice questions
 - [ ] Transistors
-- [ ] Diodes
-- [ ] Filters questions
+- [x] Diodes
+- [x] Filters questions
 - [ ] Design questions
-- [ ] Slides review (Schmitt trigger)
-
+- [x] Slides review (Schmitt trigger)
+- [ ] Learn small signal models
+- [ ] Learn Full wave/Half wave rectifier
+- [ ] Print cheatsheet
+	- [ ] Need to add band pass formulas
+	- [ ] Add OP amp equations
+	- [ ] Add examples on the back
+	- [ ] 
+- [ ] 
 ## DSA 250
 - [x] Sorting algorithms
 - [x] Dijkstra's traversal
