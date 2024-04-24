@@ -14,6 +14,8 @@ Homework (best 8 out of 10) 40 %
 Midterm Exam 20 %  **(87%)**
 Final Exam 40 %
 
+[[ECE 109 Materials Chemistry]]
+Final: 67%????? yuning li??
 
 [[ECE 240 Electronic Circuits]]
 
