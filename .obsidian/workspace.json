@@ -6,7 +6,6 @@
       {
         "id": "9567a4bdc43bb82f",
         "type": "tabs",
-        "dimension": 46.59863945578231,
         "children": [
           {
             "id": "f412b3c7b8bb5376",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter 2024/Mark Breakdown.md",
+                "file": "Weekly Notes/Exams.md",
                 "mode": "source",
                 "source": false
               }
@@ -28,36 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f9cd26afea74deca",
-        "type": "tabs",
-        "dimension": 53.40136054421769,
-        "children": [
-          {
-            "id": "3ed00d02073a578c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf"
-              }
-            }
-          },
-          {
-            "id": "9a539205270d33b2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Winter 2024/ECE 222 Digital Computers/ECE 222 - Computer Organization and Design ARM edition.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winter 2024/ECE 222 Digital Computers/ECE 222 - Computer Organization and Design ARM edition.pdf",
+                "file": "Weekly Notes/Exams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winter 2024/ECE 222 Digital Computers/ECE 222 - Computer Organization and Design ARM edition.pdf",
+                "file": "Weekly Notes/Exams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Winter 2024/ECE 222 Digital Computers/ECE 222 - Computer Organization and Design ARM edition.pdf"
+                "file": "Weekly Notes/Exams.md"
               }
             }
           }
@@ -186,48 +156,47 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a539205270d33b2",
+  "active": "880da2344b7206d6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Weekly Notes/Exams.md",
+    "Screen Shot 2024-02-23 at 3.03.27 PM.png",
+    "Screen Shot 2024-02-23 at 6.20.28 PM.png",
+    "Pasted image 20240318144720.png",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "UW Term 2A.md",
+    "Winter 2024/Mark Breakdown.md",
+    "End of term :)",
+    "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
+    "Winter 2024/ECE 222 Digital Computers/ECE 222 - Computer Organization and Design ARM edition.pdf",
     "Home/Darius.md",
     "Home/Finding hapines witin yourself.md",
     "Home/Fridge.md",
-    "Weekly Notes/Exams.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 - DataStructures_and_Algorithm Analysis.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 Data Structures and Algorithms.md",
-    "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
-    "Winter 2024/Mark Breakdown.md",
     "Home/LinkedIn!.md",
     "Winter 2024/ECE 222 Digital Computers/Virtual Memory.md",
     "Weekly Notes/Week of 2024-04-01.md",
-    "Winter 2024/ECE 222 Digital Computers/ECE 222 - Computer Organization and Design ARM edition.pdf",
     "Winter 2024/ECE 222 Digital Computers/Memory.md",
     "Winter 2024/ECE 222 Digital Computers/midtermPractice.pdf",
     "Winter 2024/ECE 222 Digital Computers/Cache, Secondary Storage.md",
     "Weekly Notes/Week of 2024-03-24.md",
-    "Untitled 2.md",
     "Interview Questions.md",
     "Home/Absolutely Jessica.md",
-    "Untitled 1.md",
     "Winter 2024/ECE 240 Electronic Circuits/Office Hours.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Graphs Lab.md",
-    "250 lab trees tries.md",
+    "Winter 2024/ECE 250 Algorithms and Data Structures/250 lab trees tries.md",
     "Winter 2024/ECE 109 Materials Chemistry/ECE 109 - Introduction-to-Materials-Science-for-Engineers-James-F.-Shackelford-Edisi-8-2015.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Intro to Graphs.md",
     "Weekly Notes/Week of 2024-03-17.md",
-    "Pasted image 20240318144720.png",
     "Weekly Notes/Reading Week.md",
     "Weekly Notes/Week of 2024-03-11.md",
-    "Untitled.md",
-    "Weekly Notes/Week of 2024-03-04.md",
     "Attachments/Pasted image 20240222125405.png",
-    "Weekly Notes/Midterm Week.md",
-    "Screen Shot 2024-02-23 at 6.20.28 PM.png",
-    "Screen Shot 2024-02-23 at 3.03.27 PM.png",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L2-Algorithms.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L3-BigO.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L4-ADTs.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L5-Linked-List.pdf",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L6-Stacks-Queues.pdf",
     "Attachments/Screen Shot 2024-02-08 at 12.19.16 AM.png",
     "Attachments/Screen Shot 2024-01-25 at 12.19.23 PM.png",
     "Attachments/Pasted image 20240111182056.png",
