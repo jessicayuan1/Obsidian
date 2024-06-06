@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f412b3c7b8bb5376",
+            "id": "a0f703b5f15ddd7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly Notes/Exams.md",
+                "file": "000 Index.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "a0f703b5f15ddd7c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Notes/Exams.md",
+                "file": "000 Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Notes/Exams.md",
+                "file": "000 Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly Notes/Exams.md"
+                "file": "000 Index.md"
               }
             }
           }
@@ -156,16 +148,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "880da2344b7206d6",
+  "active": "a0f703b5f15ddd7c",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Winter 2024/UW Term 2A.md",
+    "End of term",
+    "Winter 2024/End of term",
+    "Winter 2024/End of term :)",
     "Weekly Notes/Exams.md",
+    "Home/LinkedIn!.md",
+    "Untitled.md",
     "Screen Shot 2024-02-23 at 3.03.27 PM.png",
     "Screen Shot 2024-02-23 at 6.20.28 PM.png",
     "Pasted image 20240318144720.png",
     "Untitled 1.md",
     "Untitled 2.md",
-    "UW Term 2A.md",
     "Winter 2024/Mark Breakdown.md",
     "End of term :)",
     "Winter 2024/ECE 205 Advanced Calculus/Boyce-DiPrima-Elementary_Differential_Equations_and_Boundary_Value_Problems.pdf",
@@ -175,7 +171,6 @@
     "Home/Fridge.md",
     "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 - DataStructures_and_Algorithm Analysis.pdf",
     "Winter 2024/ECE 250 Algorithms and Data Structures/ECE 250 Data Structures and Algorithms.md",
-    "Home/LinkedIn!.md",
     "Winter 2024/ECE 222 Digital Computers/Virtual Memory.md",
     "Weekly Notes/Week of 2024-04-01.md",
     "Winter 2024/ECE 222 Digital Computers/Memory.md",
@@ -194,9 +189,6 @@
     "Weekly Notes/Week of 2024-03-11.md",
     "Attachments/Pasted image 20240222125405.png",
     "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L2-Algorithms.pdf",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L3-BigO.pdf",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L4-ADTs.pdf",
-    "Winter 2024/ECE 250 Algorithms and Data Structures/Slides/L5-Linked-List.pdf",
     "Attachments/Screen Shot 2024-02-08 at 12.19.16 AM.png",
     "Attachments/Screen Shot 2024-01-25 at 12.19.23 PM.png",
     "Attachments/Pasted image 20240111182056.png",
