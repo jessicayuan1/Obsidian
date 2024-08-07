@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"ef9f287c44d0866c","x":-180,"y":40,"width":250,"height":60,"type":"text","text":"Wifi Chip \n"},
+		{"id":"02ab376317c94c8b","x":-480,"y":-180,"width":240,"height":180,"type":"text","text":"\nRaspberry Pi (program runs in C interfaced with the wifi chip (bare-metal))\n\n"},
+		{"id":"3eeb3f00feb40ec3","x":82,"y":-110,"width":258,"height":210,"type":"text","text":"Dashboard receive program (receiving program will be some C/C++ application concurrently running after the dashboard program starts (“\\n./monitor_wifi)"},
+		{"id":"45ef449d6acc18be","x":-240,"y":-520,"width":380,"height":388,"type":"text","text":"**Main goals:** \n\n**Send commands**  \n**Receive telemetry (this is data from the pod to the dashboard) (speed, heat, battery charge)**\n\n**Maintain stable communication channel**\n\n**Do so in under 100ms**\n\n**Meet the rest of the competition requirements**"}
+	],
+	"edges":[
+		{"id":"8e6ad54cdceabd51","fromNode":"02ab376317c94c8b","fromSide":"right","toNode":"ef9f287c44d0866c","toSide":"left"},
+		{"id":"698dbb32dc0683ce","fromNode":"ef9f287c44d0866c","fromSide":"right","toNode":"3eeb3f00feb40ec3","toSide":"left"}
+	]
+}
