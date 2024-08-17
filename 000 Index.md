@@ -4,6 +4,7 @@ aliases:
 tags:
   - Index
   - 2A
+- 2B
 ---
 
 
