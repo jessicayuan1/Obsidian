@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "f4315ababb948c3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "147f36d74d83198e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "296a735b61812ec6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ab8691846ba178d",
+    "type": "split",
+    "children": [
+      {
+        "id": "939b7138ca09a3b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7b50dff5b060fb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f24c0dcbc22d11b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8e014dd800465b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed7b38c6da25b2a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "57388291f814d812",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63d9ec5258b63456",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9328876582c57300",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1eae6fae21f4208",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "59328d37fd395591",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "296a735b61812ec6",
+  "lastOpenFiles": [
+    "Fall 2024/Wato.md",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/slides/nopause/37_prop_expt8.pdf",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/slides/nopause/24_joint_dist_rv3.pdf",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/slides/nopause/02_axioms_of_prob1.pdf",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/slides/nopause/01_intro.pdf",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg/phi_table.svg",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg/mgf_table.svg",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg/39_limit_thms2.svg",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg/38_limit_thms1.svg",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg/37_prop_expt8.svg",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg/36_prop_expt7.svg",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg/35_prop_expt6.svg",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg/34_prop_expt5.svg",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg/33_prop_expt4.svg",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg/32_prop_expt3.svg",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/slides/nopause",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/slides/37_prop_expt8.pdf",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/slides/24_joint_dist_rv3.pdf",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/slides/02_axioms_of_prob1.pdf",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/slides/01_intro.pdf",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg"
+  ]
+}
