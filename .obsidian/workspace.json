@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall 2024/ECE208 - Discrete Mathematics and Logic 2 /lec1.md",
+                "file": "Fall 2024/ECE224 - Embedded Microprocessor Systems/9-9 computer review.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall 2024/ECE208 - Discrete Mathematics and Logic 2 /lec1.md",
+                "file": "Fall 2024/ECE224 - Embedded Microprocessor Systems/9-9 computer review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall 2024/ECE208 - Discrete Mathematics and Logic 2 /lec1.md",
+                "file": "Fall 2024/ECE224 - Embedded Microprocessor Systems/9-9 computer review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall 2024/ECE208 - Discrete Mathematics and Logic 2 /lec1.md"
+                "file": "Fall 2024/ECE224 - Embedded Microprocessor Systems/9-9 computer review.md"
               }
             }
           }
@@ -149,11 +149,14 @@
   },
   "active": "296a735b61812ec6",
   "lastOpenFiles": [
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/02_axioms_of_prob1.pdf",
+    "Fall 2024/ECE224 - Embedded Microprocessor Systems/Untitled 1.md",
+    "Fall 2024/ECE224 - Embedded Microprocessor Systems/9-9 computer review.md",
+    "Fall 2024/ECE208 - Discrete Mathematics and Logic 2 /lec1.md",
     "Templates/Weekly Note Template.md",
     "Templates/Week of 2024-01-28.md",
     "Templates/Date Template.md",
     "Untitled.canvas",
-    "Fall 2024/ECE208 - Discrete Mathematics and Logic 2 /lec1.md",
     "Fall 2024/Wato.md",
     "Fall 2024/ECE207 - Signals and Systems /ECE 207 - linear-systems-and-signals-3rd-edition-978-0190200176.pdf",
     "Fall 2024/ECE207 - Signals and Systems ",
@@ -164,7 +167,6 @@
     "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/slides/nopause",
     "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/slides/37_prop_expt8.pdf",
     "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/slides/24_joint_dist_rv3.pdf",
-    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/slides/02_axioms_of_prob1.pdf",
     "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg/phi_table.svg",
     "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg/mgf_table.svg",
     "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg/39_limit_thms2.svg",
