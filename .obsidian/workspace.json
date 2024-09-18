@@ -11,9 +11,11 @@
             "id": "296a735b61812ec6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/05_cond_prob1.pdf"
+                "file": "Weekly Notes/Fall 2024/Week of 2024-09-16.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/05_cond_prob1.pdf",
+                "file": "Weekly Notes/Fall 2024/Week of 2024-09-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/05_cond_prob1.pdf",
+                "file": "Weekly Notes/Fall 2024/Week of 2024-09-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/05_cond_prob1.pdf"
+                "file": "Weekly Notes/Fall 2024/Week of 2024-09-16.md"
               }
             }
           }
@@ -147,27 +149,29 @@
   },
   "active": "296a735b61812ec6",
   "lastOpenFiles": [
+    "Weekly Notes/Fall 2024/Week of 2024-09-12.md",
+    "Weekly Notes/Fall 2024/Week of 2024-09-16.md",
+    "Fall 2024/ECE207 - Signals and Systems /207-a1.pdf",
+    "Fall 2024/ECE207 - Signals and Systems /Textbook Solutions.pdf",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/Probability Review.pdf",
+    "Fall 2024/ECE207 - Signals and Systems /Chapter1s.pdf",
+    "Fall 2024/ECE207 - Signals and Systems /Chapter2s.pdf",
+    "Fall 2024/ECE207 - Signals and Systems /Chapter3s.pdf",
+    "Fall 2024/ECE207 - Signals and Systems /Chapter4s.pdf",
+    "Fall 2024/ECE207 - Signals and Systems /Chapter5s.pdf",
+    "Fall 2024/ECE207 - Signals and Systems /Chapter6s.pdf",
+    "Fall 2024/ECE207 - Signals and Systems /Chapter7s.pdf",
+    "Templates/Weekly Note Template.md",
     "Fall 2024/ECE203 - Probability Theory and Statistics 1/9-10 conditional probability.md",
-    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/05_cond_prob1.pdf",
     "Pasted image 20240910111117.png",
     "Fall 2024/ECE252 - Systems Programming and Concurrency/9-9 interrupts & system calls.md",
-    "Fall 2024/ECE207 - Signals and Systems /[Oxford Series in Electrical and Computer Engineering] B. P. Lathi, R. A. Green - Linear Systems and Signals, Third Edition [3rd Ed] (Instructor's Solution Manual) (Solutions) (2017, Oxford Univ Pr) - libgen.li.pdf",
-    "Fall 2024/ECE203 - Probability Theory and Statistics 1/ECE 203.pdf",
-    "Fall 2024/[Oxford Series in Electrical and Computer Engineering] B. P. Lathi, R. A. Green - Linear Systems and Signals, Third Edition [3rd Ed] (Instructor's Solution Manual) (Solutions) (2017, Oxford Univ Pr) - libgen.li.pdf",
     "Fall 2024/ECE224 - Embedded Microprocessor Systems/9-9 computer review.md",
-    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/02_axioms_of_prob1.pdf",
     "Fall 2024/ECE224 - Embedded Microprocessor Systems/Untitled 1.md",
     "Fall 2024/ECE208 - Discrete Mathematics and Logic 2 /lec1.md",
-    "Templates/Weekly Note Template.md",
     "Templates/Week of 2024-01-28.md",
     "Templates/Date Template.md",
     "Untitled.canvas",
     "Fall 2024/Wato.md",
-    "Fall 2024/ECE207 - Signals and Systems /ECE 207 - linear-systems-and-signals-3rd-edition-978-0190200176.pdf",
-    "Fall 2024/ECE207 - Signals and Systems ",
-    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/slides/nopause/37_prop_expt8.pdf",
-    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/slides/nopause/24_joint_dist_rv3.pdf",
-    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/slides/nopause/02_axioms_of_prob1.pdf",
     "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg/phi_table.svg",
     "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg/mgf_table.svg",
     "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/svg/39_limit_thms2.svg",

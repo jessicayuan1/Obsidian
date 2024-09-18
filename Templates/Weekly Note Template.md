@@ -1,5 +1,5 @@
 <% tp.file.rename( "Week of " + tp.date.now() ) %>
-###### Winter 2024
+###### Fall 2024
 To Do:
 - [ ] 
 
