@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly Notes/Fall 2024/Week of 2024-09-16.md",
+                "file": "Weekly Notes/Fall 2024/Week of 2024-09-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Notes/Fall 2024/Week of 2024-09-16.md",
+                "file": "Weekly Notes/Fall 2024/Week of 2024-09-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Notes/Fall 2024/Week of 2024-09-16.md",
+                "file": "Weekly Notes/Fall 2024/Week of 2024-09-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly Notes/Fall 2024/Week of 2024-09-16.md"
+                "file": "Weekly Notes/Fall 2024/Week of 2024-09-22.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "296a735b61812ec6",
   "lastOpenFiles": [
-    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/09_rand_vars2.pdf",
+    "Fall 2024/ECE252 - Systems Programming and Concurrency/9-24 tutorial 3.md",
+    "Weekly Notes/Fall 2024/Week of 2024-09-22.md",
     "Weekly Notes/Fall 2024/Week of 2024-09-16.md",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/Sheldon_Ross_-_A_First_Course_in_Probability_10th_Edition-Pearson_2018.pdf",
+    "Fall 2024/ECE203 - Probability Theory and Statistics 1/lecture_notes_v1/long_sol/09_rand_vars2.pdf",
     "Weekly Notes/Fall 2024/Week of 2024-09-12.md",
     "Fall 2024/ECE207 - Signals and Systems /207-a1.pdf",
     "Fall 2024/ECE207 - Signals and Systems /Textbook Solutions.pdf",
@@ -160,8 +163,6 @@
     "Fall 2024/ECE207 - Signals and Systems /Chapter3s.pdf",
     "Fall 2024/ECE207 - Signals and Systems /Chapter4s.pdf",
     "Fall 2024/ECE207 - Signals and Systems /Chapter5s.pdf",
-    "Fall 2024/ECE207 - Signals and Systems /Chapter6s.pdf",
-    "Fall 2024/ECE207 - Signals and Systems /Chapter7s.pdf",
     "Templates/Weekly Note Template.md",
     "Fall 2024/ECE203 - Probability Theory and Statistics 1/9-10 conditional probability.md",
     "Pasted image 20240910111117.png",
